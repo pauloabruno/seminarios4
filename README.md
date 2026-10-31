@@ -1,0 +1,2 @@
+# seminarios
+Repositório de Seminários
